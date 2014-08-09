@@ -1,3 +1,30 @@
+## README
+
+Hello!  This repository contains my submission for project 1 of the Exploratory Data Analysis class.  
+
+In this repository you will find the four PNG plots, the four R source code files requested (plot1.R, plot2.R, plot3.R, and plot4.R), plus one additional source code file, getPlotData.R, which loads the data for plotting. As I indicate in the comments in my R files:
+
+>
+> The code for getting the data is the same for all four
+> plots, so rather than copying it into four R files, I put it into one R file
+> and just source() it here. 
+> 
+> This was allowed by community TA Adrian Cuyugan in posting
+> [https://class.coursera.org/exdata-005/forum/thread?thread_id=45] 
+>
+
+To reproduce the requested plots, simply run the corresponding R file.  For example, to reproduce plot1.png, run the plot1.R file.  
+
+*Note: * the setup of the data requires the `lubridate` library, so if 
+you don't have that library, please install it first.
+
+That's it; enjoy.
+
+
+The original README.md file contents are shown below.
+
+---
+
 ## Introduction
 
 This assignment uses data from
